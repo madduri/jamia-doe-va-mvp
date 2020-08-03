@@ -20,15 +20,7 @@ header-includes:
 
 ## Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget porttitor
-dolor. Pellentesque iaculis nisi libero, vel tincidunt est auctor vitae. Donec
-fermentum tincidunt eleifend. Donec arcu lectus, finibus quis egestas ut,
-volutpat vel augue. Donec dictum ante eu tortor bibendum consectetur eu id
-elit. Pellentesque sit amet quam justo. Quisque ut nisl quis justo tempor
-pulvinar id non erat. Curabitur sit amet tortor convallis, blandit nibh vel,
-vulputate mi. Etiam malesuada nunc sit amet ex tristique maximus id sed leo.
-Aliquam mattis tempus ex sit amet eleifend. Cras accumsan ullamcorper tortor,
-id malesuada lacus luctus in. Nunc posuere quam.
+The Department of Veterans Affairs (VA) and the Department of Energy (DOE) established an Inter-agency Agreement (IAA) to combine VA’s vast array of clinical and genomic data with DOE’s national computing capabilities, including the most powerful supercomputer in the nation, to push the frontiers of precision medicine and computing with a vision to improve the lives of veterans and all Americans and support the national Precision Medicine Initiative. As a part of this initiative, researchers at DOE national laboratories have collaborated with researchers from the VA to create a high performance, robust infrastructure called Knowledge Discovery Institute to deliver on the initiative.
 
 ## Introduction
 
