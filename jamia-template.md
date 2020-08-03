@@ -11,11 +11,11 @@ header-includes:
 ---
 
 \begin{center}
-\textbf{\Large{Title of American Medical Informatics Association Submission}}
+\textbf{\Large{High Performance Computing Architectures enabling Precision Medicine: A Case Study on Collaboration with DOE and VA}}
 
-\textbf{\large{First Last, MD, MPH$^1$, First Last, MPH, CPHQ$^2$}}
+\textbf{\large{Ravi Madduri, MS $^1$, Edmon Begoli, PhD$^2$}}
 
-\textbf{\large{$^1$University of Informatics, $^2$University of Technology}}
+\textbf{\large{$^1$Argonne National Laboratory, $^2$Oak Ridge National Laboratory}}
 \end{center}
 
 ## Abstract
