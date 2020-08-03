@@ -1,4 +1,4 @@
-# JAMIA Markdown Article Template
+# JAMIA Paper on HPC Architectures enabling Precision Medicine - A Case Study on Collaboration with DOE and VA 
 
 Inspired by [a LaTeX template][amia] for the same reasons, this repository
 contains a Markdown template for article submission for Journal of the American
